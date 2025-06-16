@@ -1,0 +1,8 @@
+ACER@LAPTOP-KDDAPHT8 MINGW64 /d/BUET Files/1-2/DSA
+$ cd "D:\BUET Files\1-2\DSA\offline 03"
+
+ACER@LAPTOP-KDDAPHT8 MINGW64 /d/BUET Files/1-2/DSA/offline 03
+$ g++ -std=c++11 main.cpp arrayqueue.cpp listqueue.cpp -o main
+
+ACER@LAPTOP-KDDAPHT8 MINGW64 /d/BUET Files/1-2/DSA/offline 03
+$ main.exe
