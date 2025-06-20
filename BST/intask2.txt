@@ -1,0 +1,23 @@
+11
+cherry apple banana date banana apple mango banana orange cherry fig
+mango orange orange plum banana grape mango cherry cherry banana kiwi
+
+banana
+guava
+apple
+apple
+cherry
+mango
+orange
+fig
+date
+banana
+banana
+grape
+banana
+apple
+plum
+mango
+orange
+cherry
+fig
