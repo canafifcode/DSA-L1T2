@@ -1,0 +1,51 @@
+Graph loaded from file.
+
+Shortest path from 1 to 10:
+Shortest path: 1 11 10 
+Length: 2
+
+Shortest path from 3 to 15:
+Shortest path: 3 10 15 
+Length: 2
+
+Shortest path from 5 to 14:
+Shortest path: 5 15 14 
+Length: 2
+
+Shortest path from 2 to 8:
+Shortest path: 2 8 
+Length: 1
+
+Shortest path from 7 to 12:
+Shortest path: 7 12 
+Length: 1
+
+Shortest path from 1 to 12:
+Shortest path: 1 7 12 
+Length: 2
+
+Shortest path from 2 to 11:
+Shortest path: 2 12 11 
+Length: 2
+
+Shortest path from 6 to 13:
+Shortest path: 6 11 12 13 
+Length: 3
+
+Edge (5,6) exists? 1
+Edge (5,6) exists after removal? 0
+
+Path exists from 1 to 15? Yes
+Path exists from 10 to 5? Yes
+Path exists from 8 to 14? Yes
+Path exists from 1 to 100? No
+
+Removing node 7...
+Path exists from 1 to 7? No
+Edge (6,7) exists? 0
+
+Adding edge (7, 20)...
+Path exists from 7 to 20? Yes
+Shortest path: 7 20 
+Length: 1
+Neighbors of node 3: 13 12 11 10 1 9 
